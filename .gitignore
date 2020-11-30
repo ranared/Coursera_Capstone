@@ -1,5 +1,4 @@
-
-.env.txt
+.env
 .DS_Store
 .vscode/settings.json
 .ipynb_checkpoints/DS0701EN-3-3-2-Neighborhoods-New-York-py-v2.0-checkpoint.ipynb
